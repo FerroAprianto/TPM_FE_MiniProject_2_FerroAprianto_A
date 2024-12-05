@@ -1,0 +1,121 @@
+body {
+  background-color: #ededf9;
+}
+
+.carrd {
+  background-color: white;
+  width: 500px;
+  border-radius: 5px;
+  padding-bottom: 50px;
+}
+
+.header-content {
+  font-family: inter;
+  padding-left: 20px;
+  padding-right: 15px;
+}
+
+.headText {
+  font-size: 24px;
+  line-height: 200%;
+  font-family: Inter;
+}
+
+.subtitle {
+  font-size: 14px;
+  line-height: 200%;
+  font-family: Inter;
+}
+.line {
+  width: 100%;
+  height: 0.5px;
+  background-color: rgb(194, 194, 194);
+  margin-bottom: 20px;
+}
+
+.addcoment {
+  display: flex;
+  justify-content: space-between;
+}
+
+.border-comment {
+  border-color: rgb(129, 91, 255);
+  border-radius: 5px;
+  border-width: 1px;
+  padding: 8px;
+  width: 400px;
+}
+
+.colorbtn {
+  background-color: #523fff;
+}
+
+button:hover {
+  opacity: 0.5;
+}
+
+button {
+  background: none;
+  border: none;
+  border-radius: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  cursor: pointer;
+}
+
+.infoskills {
+  background-color: red;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.close {
+  background-color: aqua;
+}
+
+.skillcard {
+  margin-bottom: 20px;
+  border: solid 1px gray;
+  width: 150px;
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.Inputskillcard {
+  padding-left: 20px;
+  padding-right: 15px;
+}
+
+.skill-card {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+  width: 120px;
+  border: solid 1px grey;
+  padding: 0px 15px;
+  border-radius: 15px;
+  display: inline-flex;
+  justify-content: space-between;
+  margin-right: 10px;
+}
+
+.skill-name {
+  /* background-color: red; */
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+
+.close-btn {
+  /* background-color: aquamarine; */
+  padding: 0px;
+}
+
+.skill-name {
+  font-family: inter;
+  font-size: 14px;
+}
